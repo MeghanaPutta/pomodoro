@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # Project Title: Time Management Technique
 
@@ -7,7 +7,7 @@
  
 # Team Name: Pomodoro Timer
 
-=======
+
 # Project Title: Time Management Technique
 
 ## Project Description:
@@ -89,14 +89,5 @@ If any non-participating team member is present in our group, we will encourage 
   </tr>
   </table>
     
-Integration management	Project charter and management plan is described by Abhiram Madugula
-Cost management	Budget of the project and cost estimation is estimated by Jyoshna Boppidi
-Time management	Scheduling management plans and gantt charts are given by Preetham Potu
-Scope management	Scope of the project, specification requirements and work breakdown structure will be defined by Himabindu Poshala 
-Quality management	Quality of the project is monitored by Meghana Putta
-Human resource management	Organizational charts are described by Abhiram Madugula
-Communication management	Stakeholder communications are analysed by Jyoshna Boppidi
-Risk management	Risk of the project is determined, monitored by Preetham Potu
-Procurement management	Request of proposals and review of work is handled by Himabindu Poshala
-Stakeholder management	Stake holder registration, analysis and issue log is maintained by Meghana Putta
->>>>>>> 36b2247d31ebb4d85944bc0d97da8f8de714ade4
+
+
