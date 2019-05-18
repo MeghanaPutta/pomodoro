@@ -18,3 +18,12 @@ https://github.com/MeghanaPutta/pomodoro
 
 ## Team Logo:
 ![](https://github.com/MeghanaPutta/pomodoro/blob/master/Pomo.PNG)
+## Roles:
+Team Lead – Abhiram Madugula (s534093@nwmissouri.edu) 
+Team member – Himabindu Poshala (s533727@nwmissouri.edu) 
+Team member – Jyoshna Boppidi (s533706@nwmissouri.edu) 
+Team member – Meghana Putta (s533909@nwmissouri.edu) 
+Technology supporter – Preetham Potu (s533713@nwmissouri.edu) 
+
+## Project Charter:
+Project charter outlines the purpose, objectives, goals, scope, project budget, risks and dependencies.
