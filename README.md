@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 
 
 # Project Title: Time Management Technique
@@ -91,6 +90,8 @@ If any non-participating team member is present in our group, we will encourage 
   </tr>
   </table>
     
+##Team Signatures:
+
+Jyoshna Boppidi
 
 
->>>>>>> 52a83777cfb2e0e21ea81a0d16a4801552b9e8dd
