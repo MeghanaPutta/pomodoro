@@ -103,5 +103,14 @@
 	  <td>puttameghana@gmail.com</td> 
   </tr>
 </table>
+<br>
+ <h3>Schedule:</h3>
+ <hr />
+ <p>The following scheduled will be implemented.</p>
+<li>Phase 1 completed and presented at the end of week 2</li>
+<li>Phase 2 completed and presented at the end of week 4</li>
+<li>Phase 3 completed and presented at the end of week 6</li>
+<li>Phase 4 finalized and published at the end of week 8</li>
+<li>Project reflections and discussions during week 8.</li>
 </body>
 </html>
