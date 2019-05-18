@@ -1,4 +1,4 @@
-
+﻿
 
 
 # Project Title: Time Management Technique
@@ -92,10 +92,11 @@ If any non-participating team member is present in our group, we will encourage 
 
 
     
-## Team Signatures:
+## Team Signatures:<br>
 
-Jyoshna Boppidi
-Himabindu Poshala
-Abhiram Madugula
+Jyoshna Boppidi<br>
+Himabindu Poshala<br>
+Abhiram Madugula<br>
+Meghana Putta<br>
 
 
