@@ -25,8 +25,18 @@
  <li>Preetham Potu</li>
  <li>Abhiram Madugula</li>
 
- h3>Budget for this project</h3><hr />
+ <h3>Budget for this project</h3><hr />
 <p>Free of Cost</p>
+<h2> Roles</h2><hr />
+<p>Abhiram Madugula: As a developer, I want to design the backend of the application.</p>
+
+<p>Preetham Potu: As a developer, I want to perform the testing of the application.</p>
+
+<p>Jyoshna Boppidi: As a developer, I want to design UI  and work interval tabs of the application.</p>
+
+<p>Himabindu Poshala: As a developer, I want to add all tabs(start, stop, reset) required in this application.</p>
+
+<p>Meghana Putta: As a developer, I want to add settings and  links for the social media application.</p>
 
 </body>
 </html>
