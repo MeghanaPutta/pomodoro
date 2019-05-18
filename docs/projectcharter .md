@@ -37,6 +37,71 @@
 <p>Himabindu Poshala: As a developer, I want to add all tabs(start, stop, reset) required in this application.</p>
 
 <p>Meghana Putta: As a developer, I want to add settings and  links for the social media application.</p>
-
+<br>
+<h2>Stake Holder Registry</h2><br>
+<table style="width:100%;border: 1px solid black;">
+  <tr>
+    <th>Name of the StakeHolder</th>
+    <th>Role in the project</th> 
+    <th>Department</th>
+	<th>Type of StakeHolder</th>
+	<th>Expectations</th>
+	<th>Contact Info</th>
+  </tr>s
+  <tr>
+    <td>Dr.Denise Case</td>
+    <td>Mentor</td> 
+    <td>
+	Applied Computer Science</td>
+	 <td>External</td> 
+	 <td>Provide review comments and suggest improvements</td>
+	  <td>Northwest Missouri state university</td> 
+  </tr>
+  <tr>
+    <td>Abhiram Madugula</td>
+    <td>Developer</td> 
+    <td>
+	Applied Computer Science</td>	 
+	 <td>Internal</td> 
+	 <td>Develop ,test and validate code</td>
+	  <td>abhi.madu@gmail.com</td> 
+  </tr>
+  <tr>
+    <td>Preetham Potu</td>
+    <td>Developer</td> 
+    <td>
+	Applied Computer Science</td>
+	 <td>Internal</td> 
+	 <td>Develop,test and validate code</td>
+	  <td>potupreetham@gmail.com</td> 
+  </tr>
+  <tr>
+    <td>Jyoshna Boppidi</td>
+    <td>Developer</td> 
+    <td>
+	Applied Computer Science</td>
+	 <td>Internal</td> 
+	 <td>Develop,test and validate code</td>
+	  <td>boppidijyo123@gmail.com</td> 
+  </tr>
+<tr>
+    <td>Himabindu Poshala</td>
+    <td>Developer</td> 
+    <td>
+	Applied Computer Science</td>
+	 <td>Internal</td> 
+	 <td>Develop,test and validate code</td>
+	  <td>bindu123@gmail.com</td> 
+  </tr>
+  <tr>
+    <td>Meghana Putta</td>
+    <td>Developer</td> 
+    <td>
+	Applied Computer Science</td>
+	 <td>Internal</td> 
+	 <td>Develop,test and validate code</td>
+	  <td>puttameghana@gmail.com</td> 
+  </tr>
+</table>
 </body>
 </html>
