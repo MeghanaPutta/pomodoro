@@ -9,12 +9,12 @@ https://github.com/MeghanaPutta/pomodoro
 ## Team Name: Pomodoro Timer
 
 ## Team Members: 
-•	Jyoshna Boppidi
-•	Meghana Putta 
-•	Himabindu Poshala
-•	Preetham Potu
-•	Abhiram Madugula
+•	Jyoshna Boppidi<br>
+•	Meghana Putta<br>
+•	Himabindu Poshala<br>
+•	Preetham Potu<br>
+•	Abhiram Madugula<br>
 ## Client: Dr. Denise Case
 
 ## Team Logo:
-![]()
+![](https://github.com/MeghanaPutta/pomodoro/blob/master/Pomo.PNG)
